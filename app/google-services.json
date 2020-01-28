@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316883717091",
+    "firebase_url": "https://robi-360-health.firebaseio.com",
+    "project_id": "robi-360-health",
+    "storage_bucket": "robi-360-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316883717091:android:d6996e4baaaafb12bceed6",
+        "android_client_info": {
+          "package_name": "com.example.ahsan.robi360health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316883717091-q7r673qi2mt455vhj815b0pvbohm38na.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahsan.robi360health",
+            "certificate_hash": "31c817e1eb267505bc7df22e0b6ea5125ae535f9"
+          }
+        },
+        {
+          "client_id": "316883717091-10v0n5l9ma0t4nls1laklo87sgbc6f44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLH2QmJt_0CH6LL4280gUKaLvzUjQints"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316883717091-10v0n5l9ma0t4nls1laklo87sgbc6f44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

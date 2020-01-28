@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_hospital"
+        android:enabled="true"
+        android:title="Nearest Hospital"
+        android:icon="@drawable/ic_local_hospital_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_call"
+        android:enabled="true"
+        android:title="Free Call"
+        android:icon="@drawable/ic_call_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_medicine_reminder"
+        android:enabled="true"
+        android:title="Medicine Reminder"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+
+
+</menu>

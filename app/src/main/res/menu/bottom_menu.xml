@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:title="Home"
+        android:icon="@drawable/home_ic"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_hospital"
+        android:enabled="true"
+        android:title="Hospital"
+        android:icon="@drawable/nearest_hospital"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_pharmacy"
+        android:enabled="true"
+        android:title="Pharmacy"
+        android:icon="@drawable/pharma"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_dentist"
+        android:enabled="true"
+        android:title="Dentist"
+        android:icon="@drawable/dental"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_physiotherapist"
+        android:enabled="true"
+        android:title="Physiotherapist"
+        android:icon="@drawable/physical_therapy"
+        app:showAsAction="ifRoom"
+        />
+
+
+</menu>
